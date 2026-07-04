@@ -13,7 +13,7 @@ include/
 share/
 *.pyc
 __pycache__/
-# Pymavlink, MAVProxy ve ArduPilot logları/parametreleri
+# Pymavlink, MAVProxy ve ArduPilot logları/parametreleri a
 *.log
 *.tlog
 *.rlog
