@@ -5,7 +5,7 @@ from follow import PositionBasedFollow # Senin dosyan
 # Bağlantılar
 # Hunter (Uçak) - Instance 0 (Port 14570 veya 5760)
 hunter = mavutil.mavlink_connection('udp:127.0.0.1:14570')
-# Target (Drone) - Instance 1 (Port 14580 veya 5770)
+# Target (Drone) - Instance 1 (Port 14580 veya 5770) a
 target = mavutil.mavlink_connection('udp:127.0.0.1:14580')
 
 follower_logic = PositionBasedFollow(follow_alt_m=30, follow_distance_m=20, bearing_kp=0.5, max_bearing_deg=30)
