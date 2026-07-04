@@ -1,5 +1,5 @@
 from enum import Enum, auto
-
+#
 class SystemState(Enum):
     INITIALIZING = auto()
     DETECTING = auto()
