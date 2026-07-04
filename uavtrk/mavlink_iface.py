@@ -7,7 +7,7 @@ class MavlinkVehicle:
         self.sysid = sysid
         self.name = name
         self.master = None
-
+#
         # state
         self.lat = None
         self.lon = None
