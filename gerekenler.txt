@@ -15,6 +15,7 @@ export __NV_PRIME_RENDER_OFFLOAD=1
 
 gz sim -v4 -r dual_vtail_runway.sdf
 
+a
 
 //mini talon uav bağlama
 
