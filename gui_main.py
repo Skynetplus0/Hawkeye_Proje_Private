@@ -3,6 +3,7 @@
 # import threading
 # from uavtrk.system import DroneTrackingSystem
 
+#
 # class UAVControlApp:
 #     def __init__(self, root):
 #         self.root = root
