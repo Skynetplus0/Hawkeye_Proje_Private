@@ -3,4 +3,4 @@ numpy
 pymavlink
 pyyaml
 onnxruntime
-# onnxruntime-gpu  # NVIDIA varsa bunu kur
+# onnxruntime-gpu  # NVIDIA varsa abunu kur
